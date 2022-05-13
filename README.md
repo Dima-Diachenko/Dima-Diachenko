@@ -67,6 +67,6 @@ Good knowledge of Software Development Life Cycle
 ## Connect with me
 
 <a href="mailto:mr.dmitriy.diachenko@gmail.com" target="blank"><img src="assets/Gmail.png" alt="mr.dmitriy.diachenko@gmail.com" height="27.5" hspace="5"/></a>
-<a href="https://linkedin.com/in/dmitriy-diachenko-96a312176" target="blank"><img src="assets/Linkedin.png" alt="dmitriy-diachenko-96a312176" height="30" hspace="5"/></a>
+<a href="https://www.linkedin.com/in/dima-diachenko-96a312176" target="blank"><img src="assets/Linkedin.png" alt="dmitriy-diachenko-96a312176" height="30" hspace="5"/></a>
 <a href="https://fb.com/DiachenkoDima" target="blank"><img src="assets/Facebook.png" alt="DiachenkoDima" height="30" hspace="5"/></a>
 <a href="https://instagram.com/_dima_diachenko" target="blank"><img src="assets/Instagram.png" alt="_dima_diachenko" height="35" hspace="5"/></a>
