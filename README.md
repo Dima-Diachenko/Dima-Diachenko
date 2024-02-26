@@ -1,9 +1,9 @@
-## GitHub Stats
+<!-- ## GitHub Stats
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=dima-diachenko&left_text=Visitors)
 ![Followers](https://img.shields.io/github/followers/dima-diachenko?label=Followers&style=flat-square)
 
-![Statistics](https://github-readme-stats.vercel.app/api?username=dima-diachenko&count_private=true&show_icons=true&theme=default&hide=contribs,prs,stars&custom_title=Statistics)
+![Statistics](https://github-readme-stats.vercel.app/api?username=dima-diachenko&count_private=true&show_icons=true&theme=default&hide=contribs,prs,stars&custom_title=Statistics) -->
 ## My stack
 
 <img src="assets/MacOS.png" alt="MacOS" height="36" align="right"/><img src="assets/CentOS.png" alt="CentOS" height="36" align="right"/><img src="assets/Ubuntu.png" alt="Ubuntu" height="35" align="right"/>
